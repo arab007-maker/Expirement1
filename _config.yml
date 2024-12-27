@@ -6,3 +6,12 @@ theme: jekyll-theme-primer
 │   ├── css
 │   ├── images
 │   └── js
+title: My Website
+
+description: A simple description of my website.
+
+theme: jekyll-theme-primer
+
+baseurl: "" # Leave empty if using a user page
+
+url: "https://<arab-maker007>.github.io" # 
