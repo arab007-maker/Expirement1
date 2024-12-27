@@ -1,0 +1,8 @@
+title: My Website
+description: A simple description of my website.
+theme: jekyll-theme-primer
+.
+├── assets
+│   ├── css
+│   ├── images
+│   └── js
