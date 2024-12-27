@@ -1,6 +1,7 @@
 git clone https://github.com/arab007-maker/arab007-maker.github.io
 cd arab007-maker.github.io
 <!DOCTYPE html>
+index.html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
